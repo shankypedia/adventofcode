@@ -15,3 +15,18 @@ This folder contains my Python solutions for the Advent of Code challenges in th
   - `input.txt`: Input file for Day 2's puzzle.
   - `part1.py`: Solution to part 1 of Day 2's puzzle.
   - `part2.py`: Solution to part 2 of Day 2's puzzle.
+
+- [**Day 03/**](Day%2003/)
+  - `input.txt`: Input file for Day 3's puzzle.
+  - `part1.py`: Solution to part 1 of Day 3's puzzle.
+  - `part2.py`: Solution to part 2 of Day 3's puzzle.
+
+- [**Day 04/**](Day%2004/)
+  - `input.txt`: Input file for Day 4's puzzle.
+  - `part1.py`: Solution to part 1 of Day 4's puzzle.
+  - `part2.py`: Solution to part 2 of Day 4's puzzle.
+
+- [**Day 05/**](Day%2005/)
+  - `input.txt`: Input file for Day 5's puzzle.
+  - `part1.py`: Solution to part 1 of Day 5's puzzle.
+  - `part2.py`: Solution to part 2 of Day 5's puzzle.
